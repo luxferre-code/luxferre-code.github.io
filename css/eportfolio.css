@@ -1,0 +1,42 @@
+body {
+    background-color: #006e2a;
+}
+
+footer {
+    color: aqua;
+    text-align: center;
+    font-size: 75%;
+    background-color: rgba(128, 128, 128, 0.308);
+}
+
+header > h1 {
+    color: rgb(198, 198, 198);
+    text-align: center;
+    font-size: 200%;
+    text-decoration: underline rgb(68, 68, 68);
+}
+
+header {
+    background-color: rgba(128, 128, 128, 0.308);
+}
+
+#presentation {
+    margin-left: 15%;
+    margin-right: 40%;
+    word-spacing: 4px;
+}
+
+section {
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0.5);
+    border-width: thin;
+    margin: 20px;
+}
+
+.important {
+    font-weight: bolder;
+}
+
+#langage {
+    text-decoration: underline;
+}
