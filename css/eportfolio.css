@@ -26,6 +26,12 @@ header {
     word-spacing: 4px;
 }
 
+#python {
+    margin-left: 40%;
+    margin-right: 15%;
+    word-spacing: 4px;
+}
+
 section {
     border-style: solid;
     border-color: rgba(255, 255, 255, 0.5);
