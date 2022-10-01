@@ -1,0 +1,12 @@
+body {
+    background-color: darkgray;
+}
+
+header {
+    background-color: rgba(83, 83, 83, 0.753);
+}
+
+h1 {
+    margin-top: 0px;
+    text-align: center;
+}
